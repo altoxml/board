@@ -1,6 +1,10 @@
 This repository is here for ALTO Board business.
 
 ### Meeting agendas and minutes
+* [2015-05-06 ALTO Board Meeting Agenda](http://altoxml.github.io/2015-05-06%20ALTO%20Board%20Meeting%20Agenda.html)
+* [2015-04-08 ALTO Board Meeting Minutes](http://altoxml.github.io/2015-04-08%20ALTO%20Board%20Meeting%20Minutes.html)
+* [2015-04-08 ALTO Board Meeting Agenda](http://altoxml.github.io/2015-04-08%20ALTO%20Board%20Meeting%20Agenda.html)
+* [2015-03-05 ALTO Board Meeting Minutes](http://altoxml.github.io/2015-03-05%20ALTO%20Board%20Meeting%20Minutes.html)
 * [2015-03-05 ALTO Board Meeting Agenda](http://altoxml.github.io/2015-03-05%20ALTO%20Board%20Meeting%20Agenda.html)
 * [2015-02-05 ALTO Board Meeting Minutes](http://altoxml.github.io/2015-02-05%20ALTO%20Board%20Meeting%20Minutes.html)
 * [2015-02-05 ALTO Board Meeting Agenda](http://altoxml.github.io/2015-02-05%20ALTO%20Board%20Meeting%20Agenda.html)
@@ -15,6 +19,9 @@ View all open issues <a href=https://github.com/altoxml/schema/issues><b>here</b
 
 ### Closed issues
 View all closed issues <a href=https://github.com/altoxml/schema/issues?q=is%3Aissue+is%3Aclosed><b>here</b></a>.
+
+### Board membership criteria
+View the ALTO Board membership criteria <a href=http://altoxml.github.io/ALTO%20Board%20Membership%20Criteria.html><b>here</b></a>.
 
 ### Other stuff
 * [ALTO XML at the Library of Congress](http://www.loc.gov/standards/alto/)
