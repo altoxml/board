@@ -1,6 +1,8 @@
 This repository is here for ALTO Board business.
 
 ### Meeting agendas and minutes
+* [2015-09-14 ALTO Board Meeting Agenda](http://altoxml.github.io/2015-09-14%20ALTO%20Board%20Meeting%20Agenda.html)
+* [2015-06-24 ALTO Board Meeting Minutes](http://altoxml.github.io/2015-06-24%20ALTO%20Board%20Meeting%20Minutes.html)
 * [2015-06-24 ALTO Board Meeting Agenda](http://altoxml.github.io/2015-06-24%20ALTO%20Board%20Meeting%20Agenda.html)
 * [2015-06-03 ALTO Board Meeting Minutes](http://altoxml.github.io/2015-06-03%20ALTO%20Board%20Meeting%20Minutes.html)
 * [2015-06-03 ALTO Board Meeting Agenda](http://altoxml.github.io/2015-06-03%20ALTO%20Board%20Meeting%20Agenda.html)
