@@ -1,6 +1,8 @@
 This repository is for ALTO board business, agendas, and minutes.
 
 ### Meeting agendas and minutes
+* [2016-01-27 ALTO Board Meeting Agenda](http://altoxml.github.io/2016-01-27%20ALTO%20Board%20Meeting%20Agenda.html)
+* [2015-12-02 ALTO Board Meeting Minutes](http://altoxml.github.io/2015-12-02%20ALTO%20Board%20Meeting%20Minutes.html)
 * [2015-12-02 ALTO Board Meeting Agenda](http://altoxml.github.io/2015-12-02%20ALTO%20Board%20Meeting%20Agenda.html)
 * [2015-11-06 ALTO Board Face-to-Face Meeting Minutes (iPRES 2015, University of North Carolina, Chapel Hill)](http://altoxml.github.io/2015-11-06%20ALTO%20Board%20Meeting%20Minutes.html)
 * [2015-11-06 ALTO Board Face-to-Face Meeting Agenda (iPRES 2015, University of North Carolina, Chapel Hill)](http://altoxml.github.io/2015-11-06%20ALTO%20Board%20Meeting%20Agenda.html)
