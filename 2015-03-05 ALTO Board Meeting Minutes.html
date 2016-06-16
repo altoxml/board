@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+		<title>ALTO Board Meeting Minutes</title>
+
+	</head>
+
+<body>
+<p>
+Agenda for March 5, 2015 ALTO board teleconference.
+</p>
+
+<ol>
+<li>Review action items [<b>Frederick</b> leads discussion]</li>
+<li>Continue discussion of Glyphs change request <a href =https://github.com/altoxml/schema/issues/26>(issue 26)</a>.
+	(See item 10 in <a href=https://altoxml.github.io/2014-09-25%20ALTO%20Board%20Meeting%20Minutes.html>minutes</a> from London face-to-face meeting)  [<b>Joachim</b> leads discussion.]</li>
+<li>Continue discussion of Shape change request <a href =https://github.com/altoxml/schema/issues/22>(issue 22)</a>.
+	(See item 10 in <a href=https://altoxml.github.io/2014-09-25%20ALTO%20Board%20Meeting%20Minutes.html>minutes</a> from London face-to-face meeting)  [<b>Evelien</b> leads discussion.]</li>
+<li>Review organization and use of Github. [<b>Frederick</b> leads discussion]</li>
+</ol>
+
+<p>
+View all open action items <a href=https://github.com/altoxml/board/labels/action%20item><b>here</b></a>.
+</p>
+
+<p>
+<b>Attending members</b>
+</p>
+
+<ul>
+<li>Evelien Ket</li>
+<li>Frederick Zarndt</li>
+<li>Jean Philippe Moreux</li>
+</ul>
+
+<p>
+<b>Minutes</b>
+</p>
+
+<p>
+Frederick and Evelien discussed the implementation of a wiki for the ALTO Github repository.  The wiki can be viewed 
+<a href=https://github.com/altoxml/board/wiki/Welcome-to-the-ALTO-Board-Wiki!>here</a>.
+</p>
+
+<p>
+Attending board members (Evelien, Jean Philippe, and Frederick) abandoned the draft agenda in order to discuss 
+an email Jean Philippe had sent to all board members about ePub support of languages, text direction, etc.  The discussion
+focused on <a href=http://www.w3.org/TR/css3-writing-modes/>CSS Writing Modes</a>.  It must be possible to encode text direction and language at the word level.  ePub is based on HTML.  In ePubl and HTML it is possible
+to encode text direction and language at page-level, text block level, and word level.  CSS vocabulary can define reading order and text direction.
+</p>
+
+<p>
+Evelien encountered 'rotation' in the context of text blocks and wondered if the text within the block was rotated or if the block itself was rotated.
+</p>
+
+<p>
+Frederick asks if it is possible to add capabilities similar to <a href=http://www.idpf.org/epub/301/spec/epub-overview.html>ePub</a>
+ and <a href=http://www.w3.org/TR/css3-writing-modes/>CSS Writing Modes</a> to ALTO and maintain backward compability. 
+For example, Jean Philippe says that it is quite common to include Western words in the text of Japanese newspapers. Further research needed.
+</p>
+
+<p>
+Jean Philippe says the BnF is now creating ePub from ALTO XML files.  It's difficult because that accuracy of the OCR often requires lots of manual corrections.  
+Also because ALTO XML files are page-based; ePub is not page-based.  Jean Philippe showed an example of how the BnF is creating ePub from ALTO XML.
+It's relatively easy for books with a single level, like novels, but more difficult for more complex documents like textboks.
+</p>
+
+<p>
+Evelien asks how BnF corrects ALTO files.  Jean Philippe explains that BnF delivers ALTO XML files 
+plus images to service providers and gets in return ePub files plus corrected ALTO XML files.  ALTO text correction is quite expensive according to Jean Philippe.
+</p>
+
+</body>
+</html>
