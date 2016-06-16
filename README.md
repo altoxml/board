@@ -1,3 +1,3 @@
-altoxml.github.io
+Board
 =================
-Pages for altoxml repository
+ALTO board meeting minutes, agendas, and miscellaneous business
