@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>ALTO Board Meeting Minutes</title>
+	</head>
+<body>
+<p>
+Agenda for October 27, 2016 ALTO board teleconference.
+</p>
+
+<ol>
+<li>Review <a href=https://github.com/altoxml/board/labels/action%20item>action items</a>. [<b>Frederick</b> leads discussion]</li>
+<li>FYI Only: Three board member terms expire at the end of 2016, Evelien, Joachim, and Jukka. According to <a href=https://altoxml.github.io/board/ALTO%20Board%20Membership%20Criteria.html>ALTO Board Membership rules</a> 
+	board membership terms are renewable. [<b>Evelien</b>, <b>Joachim</b>, and <b>Jukka</b> lead discussion]</li>
+<li>FYI Only: According to <a href=https://altoxml.github.io/board/ALTO%20Board%20Membership%20Criteria.html>ALTO Board Membership rules</a> 
+	a chair must be chosen for the next calendar year (2017) on or before Dec 31 of the current calendar year (2016). Volunteers? [<b>Frederick</b> leads discussion]</li>
+<li>Continuing discussion about the terms of use for ALTO (see <a href=https://github.com/altoxml/schema/issues/37>issue 37</a>). Nate reports on whether the Library of Congress will approve the ALTO board's choice of 
+	Commons Attribution-ShareAlike 4.0 International (<a href=https://creativecommons.org/licenses/by-sa/4.0/>CC BY-SA 4.0)</a>. Clemens reports on his discussion with Armin Talke, legal expert at Staatsbibliothek zu Berlin. 
+	[<b>Nate</b>, <b>Clemens</b>, and <b>Frederick</b> lead discussion]</li>
+<li>Today's meeting is the last time we will be able to use CCS's Webex.  Suggestions for a Webex replacement?  Remember that it must fit the ALTO board's budget. [<b>Frederick</b> leads discussion]</li>
+	</li>
+<li>Report on the <a href=hhttp://iiif.io/event/2016/thehague/#iiif-working-groups-meeting---the-hague---2016>International Image Interoperability Framework Working Groups Meeting</a> held in the Hague, Oct 19-21. [<b>Clemens</b> leads discussion]</li>
+<li>Review collaboration with the Newspapers Interest Group of the International Image Interoperability Framework (IIIF) and with the IFLA News Media section on an ALTO fragment identifier API. [<b>Jean Philippe</b> and <b>Frederick</b> lead discussion]</li>
+<li>Continue discussion of ALTO fragment idenfitifier API <a href=https://github.com/altoxml/schema/issues/33>(issue 33)</a> and IIIF's change request <a href=https://github.com/altoxml/schema/issues/40>(issue 40)</a>. 
+	[<b>Jean Philippe</b> leads discussion.]</li>
+<li>Short report on processing history change requests if needs be.  At the last board meeting, Clemens guessed that there would only be something substantive about processing history to discuss
+	2 board meetings hence. See issue <a href=https://github.com/altoxml/schema/issues/39>39</a>. [<b>Clemens</b> leads discussion]</li>
+<li>Comments on Glyphs change request <a href=https://github.com/altoxml/schema/issues/26>(issue 26)</a> if any. [<b>Joachim</b> leads discussion.]</li>
+</ol>
+
+<p>
+View all open action items <a href=https://github.com/altoxml/board/labels/action%20item><b>here</b></a>.
+</p>
+
+<p>
+<b>Attending members</b>
+</p>
+
+<ul>
+<li>Clemens Neudecker</li>
+<li>Eric Weig</li>
+<li>Evelien Ket</li>
+<li>Frederick Zarndt</li>
+<li>Jean Philippe Maroeux</li>
+<li>Jukka Kervinen</li>
+<li>Stefan Pletschacher</li>
+</ul>
+
+<p>
+<b>Minutes</b>
+</p>
+
+<p>
+Stefan suggested generalizing issue 23 to include not just Google but others with OCR expertise.  
+Clemens mentioned a group at the University of Mannheim that is studying open source OCR and format conversions; 
+he will reach out to this group to see if one of the group members might be interested in contributing to the ALTO board.  
+Clemens also mentioned that the <a href=https://github.com/kba/hocr-spec/>hOCR spec</a> has recently been critized for a number of reasons.
+</p>
+<p>
+Issue <a href=https://github.com/altoxml/board/issues/4>4</a> <i>examples of text direction for Asian languages</i> remains open at Raju's request; 
+he wants to add examples from other Asian languages.
+</p>
+<p>
+Jukka and Evelien confirm that they will stay on the board for another 3 year term.  Both Clemens and Stefan applauded their decision.  
+Clemens asked if Frederick will continue as chair of the board; Frederick affirmed that he will if no one else wants to serve as chair.  
+Clemens added issue <a href=https://github.com/altoxml/board/issues/30>30</a> asking for volunteers to serve as chair for the next year.
+</p>
+<p>
+From the <a href=https://altoxml.github.io/board/minutes/2016-09-01%20ALTO%20Board%20Meeting%20Minutes.html>September 1 minutes</a>: 
+Discussion about licenses and use rights for the ALTO schema (continued from the last board meeting):  Nate reports that the Library of Congress does not use CC Atrribution 4.0 International, 
+mostly because the legal folks at the Library focus on use within the USA.  Nate believes that the standards administered by the Library are public domain (CC0).  Nate says that since
+ALTO is not a standard the the Library of Congress has developed but is merely hosting, there may be an argument for licensing the ALTO as we see fit (CC Attribution 4.0 International).
+Clemens asked Armin Talke, legal expert for copyright and other matters at the Staatsbibliothek zu Berlin, about use rights; he has not yet heard from Armin. 
+</p>
+<p>
+The next version of ALTO will be released with CC Attribution 4.0 International as a <i>test</i> of the use rights.  Clemens suggests that we contact current ALTO implementers, 
+first to notify these organizers about the new use rights, and second to ask what version of ALTO the implementers are using.  Stefan asked who "owns" the intellectual property embodied in ALTO.  
+Clemens sugested thinking about the origins of ALTO in the METAe project and the ownership of the intellectual property resulting from it. 
+The METAe project built the foundation for ALTO, which was subsequently maintained by CCS.  In 2009 CCS handed over the administration of the ALTO schema to the ALTO Editorial Board.  
+Either from the METAe project or CCS the board wonders if there was any formal transfer of the intellectual property?  No one knows.  Stefan said that since ALTO is a format, not an algorithm, 
+it is unlikely that anyone will claim ownership with view to obtaining a patent.  Stefan suggested that we formalize that the intellectual property embodied in ALTO belongs to the public domain.
+</p>
+<p>
+According to Eric, the University of Kentucky's open source software to convert PDF bounding boxes to ALTO is licensed under the MIT open source license.  Some software developed as part of the Europeana
+newspapers project was also developed as open source software, however, when the maintenance of this software was moved from one organization to another, it was still necessary to transfer ownership.  
+Stefan pointed out that an open source license describes use of the software but may say nothing about ownership of the software.  
+Frederick and Clemens both mention that when one works for an organization, the work one does is owned by the employer.  Jukka did not find anything about ownership of the METS XML standard.
+</p>
+<p>
+wrt to agenda item 5, CCS ending its subscription to Webex, all subsequent calls must be done with some other services.  National Library of Finland has a license for Adobe Connect Pro (similar to Webex), but it has no call-in feature.  Everyone is able to use Skype from work.  We will use Skype for the next meeting; 
+if Skype does not work well, we will try Adobe Connect for the meeting after next.
+</p>
+<p>
+Next board meeting will be Nov 22 at the usual times except for Singapore where the time will be 10pm (sorry!).
+</p>
+<p>
+Agenda items 6-8: No one attended the IIIF meeting in the Hague.  Clemens talked with Karen Estlund and Glen Robson of the IIIF Newspapers Interest Group.  Jean Phillipe has written example code using 
+the IIIF annotations framework.  The code is found <a href=https://prezi.com/6fvgzri_z3b3/alto-fragment-identifier-api/?utm_campaign=share&utm_medium=copy>here</a>.
+Jean Phillipe, Clemens, and Frederick will liase with the IIIF Newspapers Interest Group.  Jean Phillipe will contact Antoine Isaac, Clemens will mention collaboration to Glen Robson, 
+with view to collaboration with IIIF.
+</p>
+<p>
+Because the IIIF framework attaches ALTO OCR text as an annotation, IIIF needs a way to know that the text is ALTO XML.  
+Jean Phillipe will attempt to register the MIME type application/alto+xml and inform IIIF that a MIME type has been registered. 
+Jean Phillipe says that the BnF uses IIIF and commented that the IIIF framework is very powerful.  He will contact some member of IIIF as well as Antoine Isaac; 
+he will also create a code example of how this can be used.
+</p>
+<p>
+According to Clemens, a small group discussion of issue <a href=https://github.com/altoxml/schema/issues/39>39</a> is likely to be further delayed.  He suggests that at our next meeting
+we discuss if we should incorporate some of the processing history schema changes in the next schema release.
+</p>
+</body>
+</html>
