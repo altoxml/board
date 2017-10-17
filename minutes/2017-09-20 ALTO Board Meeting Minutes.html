@@ -58,15 +58,36 @@ Jean Philippe and Frederick will do this before the next board meeting.
 At the face-to-face meeting we also reviewed the README for ALTO schema 3.2.  It's ready to go.  Nate volunteers to work with Joachim to publish schema version 3.2 before the next board meeting.
 </p>
 <p>
-The board review open issues in the schema repository.  Evelien says we should give attention to <a href="https://github.com/altoxml/schema/issues/42">issue 42</a>, a bug reported by an ALTO user. 
+The board reviewed open issues in the github repository.  Evelien says we should give attention to <a href="https://github.com/altoxml/schema/issues/42">issue 42</a>, a bug reported by an ALTO user. 
 The bug fix would break backwards compatibility.  Stefan reminds the board that it had a long discussion about changes: for every schema change that breaks backward compatibility will
-be a new schema major version.  Jukka wonders if  <a href="https://github.com/altoxml/schema/issues/42">issue 42</a> also affects glyphs.  Evelien will look at other elements to see if 
+be a new schema major version.  Jukka wonders if <a href="https://github.com/altoxml/schema/issues/42">issue 42</a> also affects glyphs.  Evelien will look at other elements to see if 
 <a href="https://github.com/altoxml/schema/issues/42">issue 42</a> affects them too.</p>
 <p>
-The release of ALTO schema version 3.2 is no more. The erstwhile version 3.2 will be renamed to version 4..0 and incorporated with a fix to  <a href="https://github.com/altoxml/schema/issues/42">issue 42</a>.
-Evelien will investigate the necessary changes to fix <a href="https://github.com/altoxml/schema/issues/42">issue 42</a> and also  see what other schema elements are affected.  
-Stefan and Joachim will review the proposed changes.  Evelien will work on the change in time for the next meeting; Stefan and Joachim will review the changes.  The README will be changed to accomodate the 
+In view of the overdue fix of <a href="https://github.com/altoxml/schema/issues/42">issue 42</a> which will be added to the next schema release and which will break backward compatibility, 
+the release of ALTO schema version 3.2 is no more. The erstwhile version 3.2 will be renamed to version 4.0 and incorporated with a fix to <a href="https://github.com/altoxml/schema/issues/42">issue 42</a> 
+(the changes already agreed to for version 3.2 will be retained in version 4.0).
+Evelien will investigate the necessary changes to fix <a href="https://github.com/altoxml/schema/issues/42">issue 42</a> and see what other schema elements may be affected by the change to fix it.  
+Evelien will work on the change and propose schema changes to fix it in time for the next meeting; Stefan and Joachim will review the changes.  The erstwhile schema version 3.2 README will be changed to accomodate the 
 changes necessary for <a href="https://github.com/altoxml/schema/issues/42">issue 42</a>.
+</p>
+<p>
+Several board members participated in a lively and lengthy discussion about reference examples for ALTO.  Stefan will add an issue to githhub to address reference examples for ALTO or revitalize <a href="https://github.com/altoxml/reference_samples/issues/1">issue 1</a>; 
+he will report on progress at the next ALTO baord meeting.
+</p>
+<p>
+Art volunteered to investigate and report on <a href="https://github.com/altoxml/schema/issues/32">issue 32</a> at the next board meeting.
+</p>
+<p>
+Ashok is interested in <a href="https://github.com/altoxml/schema/issues/23">issue 23</a>, OCR confidence calculation, and will assume the role of champion for the issue.
+</p>
+Stefan asks if the board will add new features and if it has a future direction in mind for ALTO.  Frederick reports that new features have been added to ALTO as a result of external requests and defect reports.
+</p>
+<p>
+A short discussion about text direction and languages. Frederick said that ALTO has been developed with European languages in mind. 
+Raju reported that Singapore National Library had no significant issues using ALTO for Malay, Chinese, and English; he does not anticipate problems for other languages of interest to Singapore.  Raju said that there may be problems with non-spacing characters, 
+but, because Singapore has not yet done much with such languages, he cannot say much about problems with ALTO. Ashok reported briefly on Google's experience with OCR and languages with mixed text, for example, Arabic and English.  
+He mentioned as well the issue of compounding characters, that is, character plus diacritic marks which readers perceive as a single character. Unicode handles such characters just fine but the OCR representation is not well-defined. Ashok mentions problems with Japanese characters (ruby).
+Raju said that the Thai language does not have a notion of a word, that is, there is no space between words in a line of a Thai language sentence.  Ashok and Raju will add one or more issues to cover the issues raised during this discussion.
 </p>
 </body>
 </html>
