@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>ALTO Board Meeting Minutes</title>
+	</head>
+<body>
+	<p>
+		Agenda for October 19, 2017 ALTO board teleconference.
+	</p>
+	<ol>
+		<li>Find and tell a non-offensive, maybe self-deprecating joke before the meeting begins and/or after it ends. [<b>All</b>]
+		</li>
+		<li>Review <a href="https://github.com/altoxml/board/labels/action%20item">action items</a>. [<b>Frederick</b> leads discussion]
+		</li>
+		<li>Vote on new board member (CV and email application sent by email). [<b>Frederick</b> leads discussion]
+		</li>
+		<li>Report on ALTO version 4.0, the ALTO XML schema <a href="https://github.com/altoxml/schema/blob/26-glyphs/README.md">README</a>, and its <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> license.  [<b>Joachim</b>, <b>Evelien</b>, <b>Clemens</b>, and <b>Stefan</b> lead discussion.]
+		</li>
+		<li>Report on registration of MIME type for ALTO. See <a href="https://github.com/altoxml/schema/issues/40"><span class="s3">issue 40</span></a>. [<b>Jean Philippe</b> and <b>Frederick</b> lead discussion.]
+		</li>
+		<li>Report on ALTO reference examples; see <a href="https://github.com/altoxml/reference_samples/issues/1">issue 1</a>.  [<b>Stefan</b> or <b>Christian</b> lead discussion. (Stefan raised this issue at the last board meeting. He cannot attend this board meeting but his colleague and the person who originally added the issue to github will attend.  Christopher Clausner may report on it.)]
+		</li>
+		<li>Report on <a href="https://github.com/altoxml/schema/issues/32">issue 32</span></a>. [<b>Art</b> leads discussion. (Art volunteered to report on this issue during the last board meeting.)]
+		</li>			
+		<li>Report on progress with processing history change requests. See issue <a href="https://github.com/altoxml/schema/issues/39">39</span></a>. [<b>Clemens</b> leads discussion]
+		</li>
+		<li>Report (if needed) on integration of ALTO with the International Image Interoperability Framework (IIIF) <a href="https://github.com/altoxml/schema/issues/45">isssue 45</a>. [<b>Jean Philippe</b> and <b>Clemens</b> lead discussion]
+		</li>
+	</ol>
+<p>View all open action items <a href="https://github.com/altoxml/board/labels/action%20item"><b>here</b></a>.</p>
+</p>
+<p>
+<b>Attending members</b>
+<ul>
+<li>Art Rhyno</li>
+<li>Ashok Popat</li>
+<li>Clemens Neudecker</li>
+<li>Christian Clausner [for Stefan Pletschacher]</li>
+<li>Evelien Ket</li>
+<li>Frederick Zarndt</li>
+<li>Joachim Bauer</li>
+<li>Jukka Kervinen</li>
+<li>Raju Buddharaju</li>
+</ul>
+</p>
+<p>
+<b>Minutes</b>
+</p>
+<p>
+Ashok reports on the Toronto IIIF meeting.  He reports that IIIF will not figure out text granularity but will instead defer to ALTO.  The text granularity IIIF group also discussed the APIs for accessing and interacting with text.  As a result of the IIIF discussions Ashok is of the opinion that ALTO should give renewed attention to APIs access to text.  Art agrees with Ashok's assessment of IIIF's direction wrt text and APIs.  He further added that IIIF is beginning to be concerned about overhead, so whatever API, access, or interaction mechanism is provided must be lightweight and should be provided by a group - namely, ALTO - that deals with text.  IIIF wants access to glyphs but does not want to develop the access / interaction mechanism.
+</p>
+<p>
+Access to text by IIIF (or others) is discussed in issue <a href="https://github.com/altoxml/schema/issues/45">45</a>.
+</p>
+<p>
+Clemens argues that the schema constitutes an API and therefore no additional API needs to be developed.  Clemens also mentions that it is possible to generate class files from a schema.  Both Art and Ashok agree.
+</p>
+<p>
+Frederick suggests that an off-line meeting for those interested in this issue (Ashok, Art, Clemens, Jean Philippe, and perhaps others).  In Jean-Philippe's absence, Clemens agrees to publish a Doodle poll to find a suitable time for the off-line meeting.
+</p>
+<p>
+Frederick reminds the board to send new ALTO use cases to Nate Trail so that he can add them to the Library of Congress's list of <a href="https://www.loc.gov/standards/alto/community/implementers.html">ALTO use cases</a>.  Raju has written to colleagues asking them for examples of ALTO used for less common languages and for permission to use the examples; he has not yet gotten replies but thought he might have gotten replies by the next board meeting.
+</p>
+<p>
+Clemens remarks that he has tried to recruit someone experienced with <a href="https://kba.github.io/hocr-spec/1.2/">hOCR 9</a> as per <a href="https://github.com/altoxml/board/issues/23">issue 23</a> (these attempts lead to Ashok joining the board).  Further he remarks that his library (or German libraries? unclear - Clemens please correct) in is negotiation with a colleague who will assume the role of editor for hOCR from Thomas Breuel; if there is an opportunity to do so, Clemens will ask the new hOCR editor to joint the ALTO board.
+</p>
+<p>
+Board members unanimously approved Ralph Marschall's application to become an ALTO board member.
+</p>
+<p>
+Discussion of schema <a href="https://github.com/altoxml/schema/issues/42">issue 42</a>.  Evelien reports that there is indeed a problem with multiple shape elements in one text line and also proposes a <a href="https://github.com/altoxml/schema/issues/42#issuecomment-336845725">fix</a> for it.  The <a href="https://github.com/altoxml/schema/issues/42#issuecomment-336845725">fix</a> breaks backward compatibility and, by the ALTO board's convention, mandates a new major version, <a href="https://github.com/altoxml/schema/tree/master/v4">version 4</a>.  Joachim briefly reviewed the it; according to Christian, Stefan has not yet reviewed it.  Evelien, Joachim, and Stefan will review the proposed <a href="https://github.com/altoxml/schema/tree/master/v4">fix</a> before the next meeting and discuss it then.  This <a href="https://github.com/altoxml/schema/issues/42#issuecomment-336845725">fix</a> will be part of ALTO version <a href="https://github.com/altoxml/schema/tree/master/v4">vversion 4</a> along with the new Creative Commons license and the glyphs changes proposed in <a href="ttps://github.com/altoxml/schema/issues/26">issue 26</a>.
+</p>
+<p>
+Frederick reports that the ALTO MIME type IETF draft RFC failed the IETF RFC checker rather miserably.  Frederick promises that Jean-Philippe and he will continue to work on it and try to submit it to the IETF before the next meeting.
+</p>
+<p>
+Christian reports on PRImA's use of ALTO: it would be helpful to have an ALTO XML file with associated image(s), either real world ALTO files or artificially generated ALTO files and images.  Frederick, Raju, Evelien, and Clemens will ask the Library of Congress, Singapore National Library Board, the Netherlands, and the IMPACT Centre of Competence respectively for examples of real world use of ALTO.  These example ALTO files and images will be added to the ALTO Github repository under board <a href=">https://github.com/altoxml/board/issues/32">issue 32</a>.
+</p>
+<p>
+Frederick asks to manage examples of ALTO files with different versions of ALTO.  Christian suggests that putting files with different versions in different folders, one for each of the versions.
+</p>
+<p>
+Clemens reports on <a href="https://github.com/altoxml/schema/issues/39">issue 39</a>, ALTO processing history.  Some of the proposed processing history changes are included in the ALTO <a href="https://github.com/altoxml/schema/tree/master/v4">vversion 4</a> draft schema.  Frederick notes that the README for version 4 must be updated, too.  Clemens notes that, save for the processing history vocabulary (names), the changes for processing history are ready and, pending board approval, will be included in ALTO <a href="https://github.com/altoxml/schema/tree/master/v4">vversion 4</a>.
+</p>
+<p>
+Evelien and Clemens will email the board asking the board to vote ACCEPT or REJECT the changes proposed for <a href="https://github.com/altoxml/schema/issues/42">issue 42</a> and <a href="https://github.com/altoxml/schema/issues/39">issue 39</a> respectively.  The changes for the Creative Commons license and the glyphs (<a href="https://github.com/altoxml/schema/issues/26">issue 26</a>) have already been approved.
+</p>
+<p>
+A long discussion ensued about processing history.  If interested, please listen to the board meeting recording which you can request.  Clemens mentions that W3C standards such as PROV1 are being developed.  Ashok suggests a few examples of processing history would be useful; Art agrees.  Clemens says that the offline meetings about processing history also suggested the need for a common vocabulary, however, a common vocabulary was not developed.  Many of the board agree that examples of processing history would be useful.  Clemens suggests that defining the provenance of an ALTO file should be further developed; he thinks that the processing history will not be able to describe complex processing histories.  Jukka says that the provenance might also be captured in METS as PREMIS DIGIPROV events.  Clemens said that adding another processing history schema issue is not necessary at this point but it would be a good discussion at future face-to-face board meeting, that is, where does ALTO processing history end and some other processing history mechanism begin.
+</p>
+</body>
+</html>
