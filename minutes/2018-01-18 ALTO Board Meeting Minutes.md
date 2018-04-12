@@ -85,7 +85,7 @@ View all open action items [here](https://github.com/altoxml/board/labels/action
   the face-to-face meeting in Dresden have been put into the document, and that uploading the file to IETF has been thwarted
   by errors coming from the IETF website. It was suggested that using a different browser or submitting by *curl* might
   get past this. Jo and Jean-Philippe will take a look, the text is available in the 
-  [shared google folder] (https://drive.google.com/open?id=0B4gyLSJzlES5UnF3eXNkaUJYdzg). Frederick expects that the
+  [shared google folder](https://drive.google.com/open?id=0B4gyLSJzlES5UnF3eXNkaUJYdzg). Frederick expects that the
   registration will be complete in the next couple of days.
   
   wrt agenda item 5. Art described some of the difficulites in identifying baselines in written text, and supports the
