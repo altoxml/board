@@ -26,7 +26,7 @@ View all open action items [here](https://github.com/altoxml/board/labels/action
 
 Board action items reviewed. Jo updated README on github to reflect that version 4.0 is the latest release.
 
-In response to IIIF request, Ashok and Joachim will both attend monthly IIIF Newspaper meetings (Glen has confirmed that any Board member is welcome to attend). OCR correction discussed and different approaches were described. IIIF initiative is promising.
+In response to IIIF request, Ashok and Joachim will both attend monthly IIIF Newspaper meetings (Glen Robson, IIIF Technical Coordinator, has confirmed that any Board member is welcome to attend). OCR correction discussed and different approaches were described. IIIF initiative is promising.
 
 Reeve gave some background on Google's approach to handwriting (skipped around the agenda a bit so he could make another commitment). Using recognition engine for printed text is showing promise for handwritten documents. Increasing interest within digital library community to support handwriting recognition.
 
