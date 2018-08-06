@@ -31,25 +31,21 @@ navigate.
 
 wrt agenda item 3. The [DLF Forum](https://www.diglib.org/dlf-events/2018forum/) in Las Vegas (October 15-17th, 2018) has a slight 
 edge in the survey. Frederick and Art can commit to being there. Ashok has the best chance of joining the meeting if held on the 
-Sunday of the conference (Oct. 14), Frederick will contact the organizers arranging for a meeting room that in the late afternoon 
+Sunday of the conference (Oct. 14), Frederick will contact the organizers arranging for a meeting room in the late afternoon 
 or evening of the 14th.
 
 wrt agenda item 4. The open issues section on github is an appropriate location for ongoing activities, such as keeping the ALTO 
-software page up to date. Clemens pointed out that some could be moved to schema, for example, [Find examples of text direction for 
-Asian languages](https://github.com/altoxml/board/issues/4). Clemens had previously had offered to consolidate and reorganize some 
-the github pages on the ALTO site, he will send an email to the Board with some github proposals that can be discussed at an upcoming 
-meeting.
+software page up to date. Clemens pointed out that some of the issues could be moved to schema, for example, [Find examples of text direction for  Asian languages](https://github.com/altoxml/board/issues/4). Clemens had previously had offered to consolidate and reorganize some of the github pages on the ALTO site, he will send an email to the Board with some github proposals that can be discussed at an upcoming meeting.
 
-wrt agenda item 5 (see chart below - a higher score indicates a higer priority). Some high priority open Schema issues have lost champions. There is also a variance in the 
-complexity of the issues, some need to be seperated out into smaller issues while others can be addressed with minor scema changes. 
-One possible tool for managing the issues is to use github taging so that issues could reflect priorities. 
+wrt agenda item 5 (see chart below - a higher score indicates a higer priority). Some high priority open Schema issues have lost champions. There is also a variance in the complexity of the issues, some need to be seperated out into smaller issues while others 
+can be addressed with minor scema changes. One possible tool for managing the issues is to use github taging so that issues could reflect priorities. 
 
 ![Survey results for open Schema issues.](https://github.com/altoxml/board/raw/gh-pages/misc/open_schema_results.png)
 
 A few notes on on specific issues. 
 
 * [Draft a change proposal for "normalized" coordinates](https://github.com/altoxml/schema/issues/38) is without a draft. 
-* [ALTO support for OCR of video](https://github.com/altoxml/schema/issues/46) might have some convergance with the 
+* [ALTO support for OCR of video](https://github.com/altoxml/schema/issues/46) might have some convergence with the 
 [IIIF A/V group](https://iiif.io/community/groups/av/) and the
 [A/V initiative in Europeana](https://pro.europeana.eu/project/audiovisual-media-task-force). Frederick is willing to champion 
 this issue and there was some discussion about what it would require within ALTO, perhaps frame-based instead of page-based. Clemens 
@@ -84,7 +80,7 @@ Innsbruck are working on handwriting and have found need for capturing varients 
 this work is not currently open and the confidence metrics come from [Transkribus](https://transkribus.eu/Transkribus/). Clemens 
 will invite Günter and his team to participate in a call with the ALTO Board.
 
-The Board agreed that handwritten text is in scope for ALTO and that this might be a good opportunity for ALTO to provide an  open 
+The Board agreed that handwritten text is within scope for ALTO and that this might be a good opportunity for ALTO to provide an  open 
 standard for handwritting systems. Frederick has contacts at [Family First](https://www.familysearch.org/) and 
 Brigham Young University, organizations that do research on handwritting recognition, and will check to see if there is interest in 
 participating in the ALTO Board.
