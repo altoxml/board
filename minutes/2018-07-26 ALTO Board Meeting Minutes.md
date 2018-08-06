@@ -40,7 +40,7 @@ Asian languages](https://github.com/altoxml/board/issues/4). Clemens had previou
 the github pages on the ALTO site, he will send an email to the Board with some github proposals that can be discussed at an upcoming 
 meeting.
 
-wrt agenda item 5 (see chart below). Some high priority open Schema issues have lost champions. There is also a variance in the 
+wrt agenda item 5 (see chart below - a higher score indicates a higer priority). Some high priority open Schema issues have lost champions. There is also a variance in the 
 complexity of the issues, some need to be seperated out into smaller issues while others can be addressed with minor scema changes. 
 One possible tool for managing the issues is to use github taging so that issues could reflect priorities. 
 
@@ -56,7 +56,7 @@ this issue and there was some discussion about what it would require within ALTO
 will ask some colleages at the [Netherlands Institute for Sound and Vision](https://beeldengeluid.nl/en) on their experiences and 
 will pass on the information.
 
-It is acceptable and encourage for the submitter of an issue to also be its champion. Art will investigate tagging the issues with 
+It is acceptable and encouraged for the submitter of an issue to also be its champion. Art will investigate tagging the issues with 
 priority levels and try to ensure that each issue has a champion.
 
 wrt agenda item 6. Frederick reminded everyone that the Board should always be on the lookout for new members. He is currently seeking 
@@ -79,7 +79,7 @@ identities. Google also accomodates multiple segmentation hypotheses, and custom
 captured in the lattice model. 
 
 This level of detail can also be challenging and the XML files can potentially be very large. OCR engines also do not produce this 
-kind of information in a unified way. Clemens pointed out Günter Mühlberger, an ALTO pioneer, and his group at the University of 
+kind of information in a unified way. Clemens pointed out that Günter Mühlberger, an ALTO pioneer, and his group at the University of 
 Innsbruck are working on handwriting and have found need for capturing varients in order to store confidence metrics. The schema for 
 this work is not currently open and the confidence metrics come from [Transkribus](https://transkribus.eu/Transkribus/). Clemens 
 will invite Günter and his team to participate in a call with the ALTO Board.
