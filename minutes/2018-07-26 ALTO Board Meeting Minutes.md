@@ -76,13 +76,13 @@ captured in the lattice model.
 
 This level of detail can also be challenging and the XML files can potentially be very large. OCR engines also do not produce this 
 kind of information in a unified way. Clemens pointed out that Günter Mühlberger, an ALTO pioneer, and his group at the University of 
-Innsbruck are working on handwriting and have found need for capturing varients in order to store confidence metrics. The schema for 
+Innsbruck are working on handwriting and have found need for capturing variants in order to store confidence metrics. The schema for 
 this work is not currently open and the confidence metrics come from [Transkribus](https://transkribus.eu/Transkribus/). Clemens 
 will invite Günter and his team to participate in a call with the ALTO Board.
 
 The Board agreed that handwritten text is within scope for ALTO and that this might be a good opportunity for ALTO to provide an  open 
-standard for handwritting systems. Frederick has contacts at [Family First](https://www.familysearch.org/) and 
-Brigham Young University, organizations that do research on handwritting recognition, and will check to see if there is interest in 
+standard for handwriting systems. Frederick has contacts at [Family First](https://www.familysearch.org/) and 
+Brigham Young University, organizations that do research on handwriting recognition, and will check to see if there is interest in 
 participating in the ALTO Board.
 
 The next ALTO Board Meeting is tentatively set for Thursday, Sept. 20, 2018. 
