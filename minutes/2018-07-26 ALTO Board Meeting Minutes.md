@@ -68,7 +68,7 @@ are publically available on github. The current schedule for upcoming term expir
 Jean-Philippe will probably leave at the end of the year but someone from the Bibliothèque nationale de France will take his place. 
 Frederick noted that renewing is usually a matter of signaling your interest to continue and that any Board member can recruit. 
 
-wrt agenda item 7. Google has found it useful to preserve the internal uncertainity within OCR systems, and this has been done with 
+wrt agenda item 7. Google has found it useful to preserve the internal uncertainty within OCR systems, and this has been done with 
 a lattice structure which can include multiple hypotheses for accuracy. The lattice is a graphical structure that preserves an n-best 
 list in a compact form by having nodes that correspond to the points between characters while the edges correspond to the character 
 identities. Google also accomodates multiple segmentation hypotheses, and customers have benefited from the depth of information 
