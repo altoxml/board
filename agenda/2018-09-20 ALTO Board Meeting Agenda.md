@@ -5,6 +5,12 @@
    * Process for schema changes
 4. Planning for F2F meeting (Oct. 14, [DLF Forum](https://www.diglib.org/dlf-events/2018forum/) in Las Vegas - see details below). [**All**]
 5. Champions for orphaned/unassigned [open schema issues](https://github.com/altoxml/schema/issues). [**Art**]
+   * Identification of running title - [Issue #50](https://github.com/altoxml/schema/issues/50)
+   * Non Linear Hyphens - [Issue #41]( https://github.com/altoxml/schema/issues/41)
+   * Draft a change proposal for "normalized" coordinates - [Issue #38](https://github.com/altoxml/schema/issues/38)
+   * OCR correction attributes: CS, ILLS, DBTS - [Issue #21](https://github.com/altoxml/schema/issues/21)
+   * Reading Order (IMPACT) - [Issue #18](https://github.com/altoxml/schema/issues/18)
+   * textBlock "writing-mode" proposal - [Issue #12](https://github.com/altoxml/schema/issues/12)
 6. Results of vote for two new Board Members/expansion of Board. [**All**]
 
 _Additional Details for F2F Meeting_:
