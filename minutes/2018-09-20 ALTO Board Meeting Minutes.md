@@ -68,6 +68,6 @@ Clemens will add himself to the issue and work with Frederick on a proposal. Art
 _wrt item 6_. The Board will expand to allow for both Ahmed Samir and Matthew Thomas Miller to join at the same time.
 
 _Other business_. Jo has identified a problem with _processingStepType_ in version 4. He discussed the situation with Jukka and has a 
-proposal that will not break backwards compatibility. The _Processing_ will also be applicable at more than the page level. Jo will create an issue for this.
+proposal that will not break backwards compatibility. The _Processing_ elements will also be applicable at more than the page level of texts. Jo will create an issue for this.
 
 The next ALTO Board Meeting is tentatively set for Thursday, Nov. 29, 2018 at 9am EST. 
