@@ -14,5 +14,6 @@
    * [Asian language (Japanese, Korean, Chinese) with ruby characters cannot be properly represented in ALTO](https://github.com/altoxml/schema/issues/51) - possible connection to SUBS_TYPE and SUBS_CONTENT?
    * See full list of open schema issues [here](https://github.com/altoxml/schema/issues)
 6. Planning for special meeting on handwriting support in ALTO [**All**] - following up on the suggestion at the [2018-07-26 ALTO Board Meeting](https://github.com/altoxml/board/blob/gh-pages/minutes/2018-07-26%20ALTO%20Board%20Meeting%20Minutes.md) that we should invite Günter Mühlberger and his group at the University of Innsbruck to meet with the Board about their work on handwriting.
-7. Other business. [**All**]
-8. Next meeting date. [**All**]
+7. Addition of two new Board Members/expansion of Board. [**Frederick**]
+8. Other business. [**All**]
+9. Next meeting date. [**All**]
