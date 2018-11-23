@@ -2,10 +2,12 @@
 2. Find and tell a non-offensive, maybe self-deprecating joke before the meeting begins and/or after it ends. [**All**]
 3. Arabic OCR and Text Representation: experiences and challenges - we had a great discussion on this topic at the f2f meeting in Las Vegas and I think it would be useful for the larger group. [**All**]
 4. Spring/Summer F2F Meeting Opportunities - the survey for this would/will normally go out in January but it would be useful to get a heads up on conferences/gatherings that should be in the list. [**All**]
-   * [4th Digital Humanities in the Nordic Countries](https://cst.dk/DHN2019/DHN2019.html) - Copenhagen DK: March 6–8, 2019
-   * [ACM/IEEE Joint Conference on Digital Libraries](http://2019.jcdl.org) - Urbana-Champaign, Illinois, US: June 2-6, 2019
-   * [Open Repositories 2019](https://or2019.blogs.uni-hamburg.de) - Hamburg, DE: June 10-13, 2019 
-   * [2019 IIIF Conference](https://iiif.io/event/2019/goettingen/) - Göttingen, DE: June 24-28, 2019
+   * [4th Digital Humanities in the Nordic Countries](https://cst.dk/DHN2019/DHN2019.html) - Copenhagen DNK: March 6–8, 2019
+   * [DATECH 2019](http://openpreservation.org/event/datech-2019) - Bruxelles BEL: May 8-10, 2019
+   * [ACM/IEEE Joint Conference on Digital Libraries](http://2019.jcdl.org) - Urbana-Champaign, Illinois, USA: June 2-6, 2019
+   * [Open Repositories 2019](https://or2019.blogs.uni-hamburg.de) - Hamburg, DEU: June 10-13, 2019 
+   * [2019 IIIF Conference](https://iiif.io/event/2019/goettingen/) - Göttingen, DEU: June 24-28, 2019
+   * [Digital Humanities 2019](https://dh2019.adho.org) - Utrecht NLD: July 9-12, 2019
    * IAPR International Workshop on Document Analysis Systems 2019?
    * IFLA International News Media Conference 2019?
 5. Review schema issues and other updates. [**Art**]
