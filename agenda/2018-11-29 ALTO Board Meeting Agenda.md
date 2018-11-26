@@ -10,7 +10,7 @@
    * [Digital Humanities 2019](https://dh2019.adho.org) - Utrecht NLD: July 9-12, 2019
    * IAPR International Workshop on Document Analysis Systems 2019?
    * IFLA International News Media Conference 2019?
-5. Review schema issues and other updates. [**Art**]
+5. Review schema issues and other updates. [**Art/Clemens/Jo**]
    * [TextBlocks and paragraphs](https://github.com/altoxml/schema/issues/53)  - can this be closed?
    * [ALTO 4.0: adaptation of "Processing" substructure](https://github.com/altoxml/schema/issues/52) - ready for a vote?
    * [Asian language (Japanese, Korean, Chinese) with ruby characters cannot be properly represented in ALTO](https://github.com/altoxml/schema/issues/51) - is RoleTag sufficient in this case?
