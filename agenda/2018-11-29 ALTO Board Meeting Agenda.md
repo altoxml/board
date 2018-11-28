@@ -14,7 +14,7 @@
    * [TextBlocks and paragraphs](https://github.com/altoxml/schema/issues/53)  - can this be closed?
    * [ALTO 4.0: adaptation of "Processing" substructure](https://github.com/altoxml/schema/issues/52) - ready for a vote?
    * [Asian language (Japanese, Korean, Chinese) with ruby characters cannot be properly represented in ALTO](https://github.com/altoxml/schema/issues/51) - is RoleTag sufficient in this case?
-   * [Schema documentation about use of <SP> needs clarification](https://github.com/altoxml/schema/issues/54) - see ongoing discussion [here](https://github.com/UB-Mannheim/ocr-fileformat/issues/78)
+   * [Schema documentation about use of &lt;SP&gt; needs clarification](https://github.com/altoxml/schema/issues/54) - see ongoing discussion [here](https://github.com/UB-Mannheim/ocr-fileformat/issues/78)
    * See full list of open schema issues [here](https://github.com/altoxml/schema/issues)
 6. Planning for special meeting on handwriting support in ALTO [**All**] - following up on the suggestion at the [2018-07-26 ALTO Board Meeting](https://github.com/altoxml/board/blob/gh-pages/minutes/2018-07-26%20ALTO%20Board%20Meeting%20Minutes.md) that we should invite Günter Mühlberger and his group at the University of Innsbruck to meet with the Board about their work on handwriting.
 7. Addition of two new Board Members/expansion of Board. [**Frederick**]
