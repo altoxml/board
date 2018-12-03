@@ -45,7 +45,7 @@ format and there has been a realization that stronger OCR options are needed. Be
 fraktur and was at the initial meeting, assisted in a series of pilot projects using his open source 
 [kraken]( https://github.com/mittagessen/kraken) system. The use of _kraken_ has been very effective, and the tests have been 
 [published]( https://islamichistorycommons.org/mem/wp-content/uploads/sites/55/2017/11/UW-25-Savant-et-al.pdf), with similar results 
-reported from a recent project with JSTOR. OpenITI is interested in a highly retrainable and customizable OCR platform and is working 
+reported from a recent project with JSTOR. OpenITI is interested in a highly retrainable and customizable OCR platform, and is working 
 with the [SHARIAsource project]( https://ilsp.law.harvard.edu/shariasource/) of Harvard Law School on the creation of a digital text 
 pipeline tool called _CorpusBuilder_.
 
@@ -54,11 +54,13 @@ to flag at this point but may know more in a few months. Work will begin using t
 his group has a similar workflow pipeline project that Ben has also been involved in, and will send the details to Matt. Frederick asked 
 that Ahmed be included in the email and noted that his understanding is that the Library of Alexandria has encountered challenges in 
 utilizing ALTO. He believes that most OCR processing there involves the use of 
-[Sakhr]( http://www.sakhr.com/index.php/en/solutions/ocr). Matt reported that his work with JSTOR has largely involved hOCR, even though 
+[Sakhr]( http://www.sakhr.com/index.php/en/solutions/ocr). 
+
+Matt reported that his work with JSTOR has largely involved hOCR, even though 
 ALTO is produced natively by _kraken_. Clemens pointed out that there are tools for round tripping between hOCR and ALTO in 
 the [github repository]( https://github.com/cneud/ocr-conversion-scripts) he maintains for OCR conversions. This repository includes 
-PAGE conversion tools and Clemens may take up the [ALTO - PAGE issue](https://github.com/altoxml/schema/issues/48) currently marked 
-as high priority in the context of the [OCR-D]( http://www.ocr-d.de/) project. 
+PAGE conversion tools and Clemens may take up the [ALTO - PAGE issue](https://github.com/altoxml/schema/issues/48), currently marked 
+as high priority, in the context of the [OCR-D]( http://www.ocr-d.de/) project. 
 
 Art asked about the use of XSLT for OCR conversions. Clemens is not the biggest fan of using XSLT but recognizes its 
 platform-independent advantage. Stefan noted that XSLT is the most effective when there is a straight mapping of elements but it is 
