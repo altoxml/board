@@ -134,4 +134,4 @@ Chinese, and there was general agreement that the Board should be expanded to ac
 email to Board members asking for an ACCEPT or REJECT to changing the membership criteria. Expanding a Board can make quorum 
 problematic but the ALTO Board largely avoids these kind of governance issue by virtue of using github and email for voting.
 
-_wrt agenda item 9_. The next meeting is tentatively proposed for January 25, 2019 at 9am EST. 
+_wrt agenda item 9_. The next meeting is tentatively scheduled for January 25, 2019 at 9am EST. 
