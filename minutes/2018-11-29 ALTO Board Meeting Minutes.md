@@ -134,6 +134,6 @@ both involved in the DATECH conference and will reach out to Günter to confirm 
 _wrt agenda item 7_. Frederick outlined the strengths that the two recent candidates bring to the ALTO Board, including expertise in 
 Chinese, and there was general agreement that the Board should be expanded to accommodate their membership. Frederick will send an 
 email to Board members asking for an ACCEPT or REJECT to changing the membership criteria. Expanding a Board can make quorum 
-problematic but the ALTO Board largely avoids these kind of governance issue by virtue of using github and email for voting.
+problematic but the ALTO Board largely avoids these kind of governance issues by virtue of using github and email for voting. Once the Board expansion is approved, a vote will go ahead on the two candidates.
 
 _wrt agenda item 9_. The next meeting is tentatively scheduled for January 25, 2019 at 9am EST. 
