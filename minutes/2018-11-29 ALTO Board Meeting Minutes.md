@@ -87,7 +87,7 @@ Art has proposed the use of the _RoleTag_ to address this issue, which would not
 [Identification of running title](https://github.com/altoxml/schema/issues/50) issue, the _Tag_ mechanism in ALTO is very useful for 
 delimiting components in text without requiring a schema change.
 
-* [Schema documentation about use of <SP> needs clarification]( https://github.com/altoxml/schema/issues/54) – Clemens gave some 
+* [Schema documentation about use of SP element needs clarification]( https://github.com/altoxml/schema/issues/54) – Clemens gave some 
 background on this issue, which originates in a long-standing and much desired 
 [tesseract pull request for producing ALTO natively from tesseract]( https://github.com/tesseract-ocr/tesseract/pull/2100). The pull 
 request is linked to [an issue]( https://github.com/UB-Mannheim/ocr-fileformat/issues/78) of the 
