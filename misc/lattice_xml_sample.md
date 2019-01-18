@@ -21,3 +21,4 @@ link for the schema is broken but it can be viewed
   </GRAPH>
 </LATTICES>
 ```
+The [ALPS mailing lists](https://lists.phys.ethz.ch/pipermail/comp-phys-alps-users/) still seem to be active.
