@@ -3,7 +3,8 @@
 3. Review recent schema issues:
    * [ALTO 4.0: adaptation of "Processing" substructure](https://github.com/altoxml/schema/issues/52) - next steps? [**Jo**]
    * [Schema documentation about use of &lt;SP&gt; needs clarification](https://github.com/altoxml/schema/issues/54) - _Note_: 
-Tesseract master branch now exports ALTO, includes &lt;SP&gt; tags) [**Clemens**]
+Tesseract master branch now exports ALTO, includes &lt;SP&gt; tags [**Clemens**]
+   * [Add LANG and ROTATION attributes to Page element](https://github.com/altoxml/schema/issues/55) - recent
 4. Touch base on _high priority_ schema issues. [**All**]
    * [ALTO - PAGE xml: Object mapping and possible transformation generation](https://github.com/altoxml/schema/issues/48)
    * [ALTO & IIIF integration](https://github.com/altoxml/schema/issues/45) - 
