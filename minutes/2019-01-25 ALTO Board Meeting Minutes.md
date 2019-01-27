@@ -104,4 +104,4 @@ meeting in DATeCH.
 * It was agreed that a Schema issue will be created on the use of ALTO for handwriting in order to provide a starting point for 
 discussion. 
 
-_wrt agenda item 9_. The next meeting is tentatively scheduled for March 22, 2019 at 9am EST.               
+_wrt agenda item 8_. The next meeting is tentatively scheduled for March 22, 2019 at 9am EST.               
