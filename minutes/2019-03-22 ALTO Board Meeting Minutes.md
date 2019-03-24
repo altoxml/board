@@ -67,4 +67,4 @@ the [SHARIAsource project](https://ilsp.law.harvard.edu/shariasource/) that occu
 the meeting went well and will investigate whether the proposal that led to the Mellon grant for the project can be shared with 
 the Board.
 
-_wrt agenda item 8_. The next meeting will be the F2F gathering at DaTECH, most likely on May 7, 2019.
+_wrt agenda item 7_. The next meeting will be the F2F gathering at DaTECH, most likely on May 7, 2019.
