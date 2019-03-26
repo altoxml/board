@@ -45,7 +45,7 @@ _wrt agenda item 4_. Review recent schema issues:
    between using ALTO for Arabic and the handwriting use case. The example used for the issue has overlapping coordinates at the 
    gylph level, which ALTO supports, and puts additional pressure on the need to clarify the confidence metrics in ALTO. Cally 
    described the work that [NewspaperSG](http://eresources.nlb.gov.sg/newspapers/) does with crowdsourcing transcriptions of 
-   Javanese, and asked about how best to identify that text is handwritten, typeset, and/or crowdsourced in ALTO. Jo noted that 
+   Jawi Newspapers, and asked about how best to identify that text is handwritten, typeset, and/or crowdsourced in ALTO. Jo noted that 
    METS has a role in storing information from transcription workflows and that ALTO's processing support can have a role in 
    documenting the history of how text has been produced in addition to information about the OCR engine. Hany and Jo both 
    flagged the difficulties around coordinate assignment with transcriptions and translations, where there is not always a 
