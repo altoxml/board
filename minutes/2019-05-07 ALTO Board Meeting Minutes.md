@@ -16,7 +16,7 @@
 
 **Guests**
 
-* Ben Mittagessen *
+* Benjamin Kiessling *
 * David Smith *
 * Gerald Schreiber (CCS)
 * Sebastian Colutto  *
