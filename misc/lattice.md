@@ -1,4 +1,4 @@
-![Alt text](https://g.gravizo.com/source/custom_mark10?https%3A%2F%2Fgithub.com%2Faltoxml%2Fboard%2Fnew%2Fgh-pages%2Fmisc%2Flattice.md)
+![Alt text](https://g.gravizo.com/source/lattice1?https%3A%2F%2Fgithub.com%2Faltoxml%2Fboard%2Fnew%2Fgh-pages%2Fmisc%2Flattice.md)
 <details> 
 <summary></summary>
 lattice1
