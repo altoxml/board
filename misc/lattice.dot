@@ -1,4 +1,4 @@
-digraph {
+digraph G {
   ordering=out; 
   node_0 [label="0", shape=circle, height=0.1, width=0.1];
   edge_0 [label="e | probability:\ 0.94\l", shape=record]; 
