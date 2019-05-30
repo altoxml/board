@@ -1,7 +1,7 @@
-![Alt text](https://g.gravizo.com/source/lattice1?https%3A%2F%2Fraw.githubusercontent.com%2Faltoxml%2Fboard%2Fgh-pages%2Fmisc%2Flattice.md) 
+![Alt text](https://g.gravizo.com/source/lattice0?https%3A%2F%2Fraw.githubusercontent.com%2Faltoxml%2Fboard%2Fgh-pages%2Fmisc%2Flattice.md) 
 <summary></summary>
 <details>
-lattice1
+lattice0
   digraph G {
     ordering=out; 
     node_0 [label="0", shape=circle, height=0.1, width=0.1];
@@ -25,5 +25,5 @@ lattice1
     edge_4 -> node_4; 
     node_4 [label="4", shape=circle, height=0.1, width=0.1];
   }
-lattice1
+lattice0
 </details>
