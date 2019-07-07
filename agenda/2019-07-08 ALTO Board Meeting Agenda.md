@@ -8,7 +8,7 @@
       * [Position for rotated text](https://github.com/altoxml/schema/issues/59)
    * seeking champions [**All**]: 
       * [Add LANG and ROTATION attributes to Page element](https://github.com/altoxml/schema/issues/55)
-      * [Schema documentation about use of <SP> needs clarification](https://github.com/altoxml/schema/issues/54)
+      * [Schema documentation about use of `<SP>` needs clarification](https://github.com/altoxml/schema/issues/54)
       * [Reading Order (IMPACT)](https://github.com/altoxml/schema/issues/18)
    * See full list of open schema issues [here](https://github.com/altoxml/schema/issues)
 4. Alternative hypotheses and lattice support discussion [**All**] -  pursuant to the consensus at the [F2F Brussels meeting](https://github.com/altoxml/board/blob/gh-pages/minutes/2019-05-07%20ALTO%20Board%20Meeting%20Minutes.md) to "encode multiple hypotheses within a standard and interoperable lattice structure", background material includes:
