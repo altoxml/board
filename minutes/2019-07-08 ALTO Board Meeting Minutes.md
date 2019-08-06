@@ -55,12 +55,12 @@ _wrt agenda item 3_. Review recent schema issues:
       * [ALTO 4.0: adaptation of "Processing" substructure](https://github.com/altoxml/schema/issues/52) - this has been implemented in 
       version 4.1 and Jo will close.
       * [textBlock "writing-mode" proposal](https://github.com/altoxml/schema/issues/12) - Evelien suggested that this can probably be 
-      closed and Art follow up with Clemens to confirm that this is the case.
+      closed and Art will follow up with Clemens to confirm that this is the case.
       * [Position for rotated text](https://github.com/altoxml/schema/issues/59) - Jo noted that HPOS and VPOS always refer to the 
       top-left position of the element. This will be left open.
       
-   * seeking champions - Board members are encouraged to become a champion for issues not currently assigned to anyone, and these 
-   three are good starting points.
+   * seeking champions - Board members are encouraged to become a champion for issues not currently assigned to anyone, and the 
+   three identified in the agenda are good starting points.
 
 _wrt agenda item 4_. Art described how the lattice discussion dovetailed with the interest in using ALTO for encoding handwriting. Jo 
 flagged the complexity in supporting handwriting, noting that the variants inherent in handwriting recognition can lead to significant 
