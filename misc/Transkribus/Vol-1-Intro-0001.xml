@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+  </Description>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3326" WIDTH="2560">
+      <TopMargin HEIGHT="0" WIDTH="2560" VPOS="0" HPOS="0" />
+      <LeftMargin HEIGHT="3326" WIDTH="0" VPOS="0" HPOS="0" />
+      <RightMargin HEIGHT="3326" WIDTH="0" VPOS="0" HPOS="2560" />
+      <BottomMargin HEIGHT="0" WIDTH="2560" VPOS="3326" HPOS="0" />
+      <PrintSpace HEIGHT="3326" WIDTH="2560" VPOS="0" HPOS="0">
+        <TextBlock ID="r1" HEIGHT="2933" WIDTH="2001" VPOS="218" HPOS="358">
+          <Shape>
+            <Polygon POINTS="358,218 363,3151 2359,3151 2354,218" />
+          </Shape>
+          <TextLine ID="r1l1" BASELINE="356" HEIGHT="121" WIDTH="592" VPOS="235" HPOS="866">
+            <String ID="string_r1l1" HEIGHT="121" WIDTH="592" VPOS="235" HPOS="866" CONTENT="Introduction" />
+          </TextLine>
+          <TextLine ID="r1l2" BASELINE="500" HEIGHT="109" WIDTH="1926" VPOS="391" HPOS="351">
+            <String ID="string_r1l2" HEIGHT="109" WIDTH="1926" VPOS="391" HPOS="351" CONTENT="In our attics and basements, we all have boxes" />
+          </TextLine>
+          <TextLine ID="r1l3" BASELINE="635" HEIGHT="131" WIDTH="1926" VPOS="504" HPOS="372">
+            <String ID="string_r1l3" HEIGHT="131" WIDTH="1926" VPOS="504" HPOS="372" CONTENT="of freasures and memorabilia from earlier times in" />
+          </TextLine>
+          <TextLine ID="r1l4" BASELINE="707" HEIGHT="76" WIDTH="402" VPOS="631" HPOS="373">
+            <String ID="string_r1l4" HEIGHT="76" WIDTH="402" VPOS="631" HPOS="373" CONTENT="our lives." />
+          </TextLine>
+          <TextLine ID="r1l5" BASELINE="846" HEIGHT="134" WIDTH="1836" VPOS="712" HPOS="370">
+            <String ID="string_r1l5" HEIGHT="134" WIDTH="1836" VPOS="712" HPOS="370" CONTENT="I am at that stage when treasures must be" />
+          </TextLine>
+          <TextLine ID="r1l6" BASELINE="944" HEIGHT="115" WIDTH="1823" VPOS="829" HPOS="372">
+            <String ID="string_r1l6" HEIGHT="115" WIDTH="1823" VPOS="829" HPOS="372" CONTENT="sorted, evaluated, and decisions made about" />
+          </TextLine>
+          <TextLine ID="r1l7" BASELINE="1061" HEIGHT="109" WIDTH="1762" VPOS="952" HPOS="372">
+            <String ID="string_r1l7" HEIGHT="109" WIDTH="1762" VPOS="952" HPOS="372" CONTENT="their late. The box marked &quot;Met.&quot; contained" />
+          </TextLine>
+          <TextLine ID="r1l8" BASELINE="1189" HEIGHT="134" WIDTH="1919" VPOS="1055" HPOS="379">
+            <String ID="string_r1l8" HEIGHT="134" WIDTH="1919" VPOS="1055" HPOS="379" CONTENT="letters, newspaper articles photogaphs, yearbooks," />
+          </TextLine>
+          <TextLine ID="r1l9" BASELINE="1278" HEIGHT="110" WIDTH="1838" VPOS="1168" HPOS="387">
+            <String ID="string_r1l9" HEIGHT="110" WIDTH="1838" VPOS="1168" HPOS="387" CONTENT="and many other items that even now revoke" />
+          </TextLine>
+          <TextLine ID="r1l10" BASELINE="1380" HEIGHT="90" WIDTH="1669" VPOS="1290" HPOS="402">
+            <String ID="string_r1l10" HEIGHT="90" WIDTH="1669" VPOS="1290" HPOS="402" CONTENT="memories and have value in many ways." />
+          </TextLine>
+          <TextLine ID="r1l11" BASELINE="1484" HEIGHT="101" WIDTH="1910" VPOS="1383" HPOS="382">
+            <String ID="string_r1l11" HEIGHT="101" WIDTH="1910" VPOS="1383" HPOS="382" CONTENT="In discussion with Ron Foster, he assured me" />
+          </TextLine>
+          <TextLine ID="r1l12" BASELINE="1606" HEIGHT="117" WIDTH="1863" VPOS="1489" HPOS="380">
+            <String ID="string_r1l12" HEIGHT="117" WIDTH="1863" VPOS="1489" HPOS="380" CONTENT="that rather than the unthinkable fate of the " />
+          </TextLine>
+          <TextLine ID="r1l13" BASELINE="1751" HEIGHT="160" WIDTH="1897" VPOS="1591" HPOS="384">
+            <String ID="string_r1l13" HEIGHT="160" WIDTH="1897" VPOS="1591" HPOS="384" CONTENT="items being discarded, there would indeed be" />
+          </TextLine>
+          <TextLine ID="r1l14" BASELINE="1851" HEIGHT="154" WIDTH="1984" VPOS="1697" HPOS="388">
+            <String ID="string_r1l14" HEIGHT="154" WIDTH="1984" VPOS="1697" HPOS="388" CONTENT="a place for them in the Archives of the the Metropolitan" />
+          </TextLine>
+          <TextLine ID="r1l15" BASELINE="1956" HEIGHT="118" WIDTH="682" VPOS="1838" HPOS="414">
+            <String ID="string_r1l15" HEIGHT="118" WIDTH="682" VPOS="1838" HPOS="414" CONTENT="General Hospital." />
+          </TextLine>
+          <TextLine ID="r1l16" BASELINE="2101" HEIGHT="155" WIDTH="1901" VPOS="1946" HPOS="392">
+            <String ID="string_r1l16" HEIGHT="155" WIDTH="1901" VPOS="1946" HPOS="392" CONTENT="Accordingly, with that approval and encouragement, " />
+          </TextLine>
+          <TextLine ID="r1l17" BASELINE="2213" HEIGHT="160" WIDTH="1832" VPOS="2053" HPOS="387">
+            <String ID="string_r1l17" HEIGHT="160" WIDTH="1832" VPOS="2053" HPOS="387" CONTENT="I began to organize and prepare the collection." />
+          </TextLine>
+          <TextLine ID="r1l18" BASELINE="2310" HEIGHT="135" WIDTH="1033" VPOS="2175" HPOS="413">
+            <String ID="string_r1l18" HEIGHT="135" WIDTH="1033" VPOS="2175" HPOS="413" CONTENT="It includes the following: " />
+          </TextLine>
+          <TextLine ID="r1l19" BASELINE="2420" HEIGHT="149" WIDTH="1760" VPOS="2271" HPOS="511">
+            <String ID="string_r1l19" HEIGHT="149" WIDTH="1760" VPOS="2271" HPOS="511" CONTENT="1. Volumes 1, 2, 3 and 4 of materials mounted on" />
+          </TextLine>
+          <TextLine ID="r1l20" BASELINE="2501" HEIGHT="133" WIDTH="1537" VPOS="2368" HPOS="589">
+            <String ID="string_r1l20" HEIGHT="133" WIDTH="1537" VPOS="2368" HPOS="589" CONTENT="acid -free paper, where possible. They are" />
+          </TextLine>
+          <TextLine ID="r1l21" BASELINE="2605" HEIGHT="132" WIDTH="1666" VPOS="2473" HPOS="577">
+            <String ID="string_r1l21" HEIGHT="132" WIDTH="1666" VPOS="2473" HPOS="577" CONTENT="presented chronologically from the beginning " />
+          </TextLine>
+          <TextLine ID="r1l22" BASELINE="2711" HEIGHT="135" WIDTH="1667" VPOS="2576" HPOS="578">
+            <String ID="string_r1l22" HEIGHT="135" WIDTH="1667" VPOS="2576" HPOS="578" CONTENT="of the School in 1954 to my arrival in 1958," />
+          </TextLine>
+          <TextLine ID="r1l23" BASELINE="2780" HEIGHT="114" WIDTH="1748" VPOS="2666" HPOS="583">
+            <String ID="string_r1l23" HEIGHT="114" WIDTH="1748" VPOS="2666" HPOS="583" CONTENT="than to the transfer to St. Clair College in 1973," />
+          </TextLine>
+          <TextLine ID="r1l24" BASELINE="2918" HEIGHT="143" WIDTH="1657" VPOS="2775" HPOS="579">
+            <String ID="string_r1l24" HEIGHT="143" WIDTH="1657" VPOS="2775" HPOS="579" CONTENT="and the demolition of the School building " />
+          </TextLine>
+          <TextLine ID="r1l25" BASELINE="2974" HEIGHT="70" WIDTH="304" VPOS="2904" HPOS="591">
+            <String ID="string_r1l25" HEIGHT="70" WIDTH="304" VPOS="2904" HPOS="591" CONTENT="in 1998." />
+          </TextLine>
+          <TextLine ID="r1l26" BASELINE="3054" HEIGHT="95" WIDTH="1518" VPOS="2959" HPOS="570">
+            <String ID="string_r1l26" HEIGHT="95" WIDTH="1518" VPOS="2959" HPOS="570" CONTENT="Details re Course and Curriculum are" />
+          </TextLine>
+          <TextLine ID="r1l27" BASELINE="3173" HEIGHT="125" WIDTH="1558" VPOS="3048" HPOS="589">
+            <String ID="string_r1l27" HEIGHT="125" WIDTH="1558" VPOS="3048" HPOS="589" CONTENT="included in copies of the Annoucements" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
