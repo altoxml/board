@@ -17,12 +17,13 @@
       * examining lattice model proposed in [Allow a String to contain alternative Glyph segmentation hypotheses ](https://github.com/altoxml/schema/issues/57) - [XML-based syntax](https://github.com/altoxml/schema/issues/57#issuecomment-510266788) sample in issue.
       * others?
 5. Upcoming Board Changes/Expirations:
-   * CCS : _TBD_
+   * _CCS_ : Welcome Ciprian Dinu, Managing Director (CCS Romania)
    * _December 31, 2019_: Clemens, Raju, and Stefan
-   * _December 31, 2020_: Art, Ashok, Evelien, Joachim, Jukka, and Ralph
+   * _December 31, 2020_: Art, Ashok, Evelien, Jukka, and Ralph
    * _December 31, 2021_: Frederick, Nate, Matthew, and Ahmed Samir
 6. Spring 2020 F2F Meeting Location candidates:
    * [RLUK (Research Libraries UK) 2020](https://www.rluk.ac.uk/event/rluk-conference-2020/). London, UK. March 16-18 2020
    * [Digitised newspapers - a new Eldorado for historians?](https://impresso-project.ch/news/2019/06/12/WS5-CfP.html) Lausanne, Switzerland. April 23-24, 2020
+   * IFLA News Media section will sponsor a midyear meeting in Mexico City at UNAM and the National Library of Mexico (no URL or specific date yet - most likely to be held in March-May).
    * suggestions
 7. Other business. [**All**]
