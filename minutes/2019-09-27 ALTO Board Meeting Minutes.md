@@ -68,6 +68,6 @@ _wrt agenda item 6_. Spring 2020 F2F Meeting Location candidates:
 
 The [Digitised newspapers - a new Eldorado for historians?](https://impresso-project.ch/news/2019/06/12/WS5-CfP.html) conference was seen as a good opportunity to present a paper on ALTO, and it would make sense to then use the event as an opportunity for a Spring F2F meeting.
 
-_wrt agenda item 6_. Other business.
+_wrt agenda item 7_. Other business.
 
 The next meeting will be scheduled after the Fall F2F meeting.
