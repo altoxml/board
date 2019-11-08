@@ -49,7 +49,7 @@ tree that is expanded as needed. This allows context to be kept before pruning o
 representation preserves state. For lattices in ALTO, it may not make sense to attempt to separate out scores.
 
 Robert then gave some details on his proposal, which targets both gylph and word segmentation ambiguity at the same time. Glyphs become the nodes in the lattice,
-and he uses an element called _Span_ for the edges which merely reference the Glyphs to be connected ([see example here](https://github.com/altoxml/schema/issues/63#issuecomment-550991423)). Both sets of elements are then subsumed over a _Lattice_ element.
+and he uses an element called _Span_ for the edges which merely reference the Glyphs to be connected ([see example here](https://github.com/altoxml/schema/issues/57#issuecomment-510266788)). Both sets of elements are then subsumed over a _Lattice_ element.
 
 Art subsequently showed some syntax that combined the new _StringVariant_ element with _Lattice_, 
 but Robert objected that not allowing the lattice to contain independent nodes would restrict the graph to a (linear/totally ordered) confusion network structure again, which _Lattice_ set out to overcome in the first place.
