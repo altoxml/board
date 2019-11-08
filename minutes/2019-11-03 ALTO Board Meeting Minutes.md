@@ -49,12 +49,12 @@ tree that is expanded as needed. This allows context to be kept before pruning o
 representation preserves state. For lattices in ALTO, it may not make sense to attempt to separate out scores.
 
 Robert then gave some details on his proposal, which targets both gylph and word segmentation ambiguity at the same time. Glyphs become the nodes in the lattice,
-and he uses an element called _Span_ for the edges which merely reference the Glyphs to be connected ([see example here](/altoxml/schema/issues/57#issuecomment-510266788)). Both sets of elements are then subsumed over a _Lattice_ element.
+and he uses an element called _Span_ for the edges which merely reference the Glyphs to be connected ([see example here](https://github.com/altoxml/schema/issues/63#issuecomment-550991423)). Both sets of elements are then subsumed over a _Lattice_ element.
 
 Art subsequently showed some syntax that combined the new _StringVariant_ element with _Lattice_, 
 but Robert objected that not allowing the lattice to contain independent nodes would restrict the graph to a (linear/totally ordered) confusion network structure again, which _Lattice_ set out to overcome in the first place.
 However, _StringVariant_ being a natural token-level analogue to _Variant_ on the glyph-level, it was agreed this
-is a different discusson, and that the lattice proposal should become its own [github issue](/altoxml/schema/issues/63). 
+is a different discusson, and that the lattice proposal should become its own [github issue](https://github.com/altoxml/schema/issues/63). 
 
 It is recognized that scoring and rescoring OCR with lattices has great potential but can be confusing. Robert noted that newer 
 language models need a lot of context (beyond a single line) for predictions to become accurate. Art asked if the LM rescoring in the 
@@ -103,7 +103,7 @@ the potential of sharing lattices will encourage more support for exposing this 
 use of lattices was initially a consequence of using an HMM-based system that supported lattices, and this led to an 
 appreciation of their utility.
 
-Under _Other Business_, Robert commented on the [SP](/altoxml/schema/issues/54) issue, noting the importance of explicit spacing
+Under _Other Business_, Robert commented on the [SP](https://github.com/altoxml/schema/issues/54) issue, noting the importance of explicit spacing
 for using language models, and the close relation of the lattice issue to the question raised by the SP issue of whether the _String_ sequence is allowed to be interpreted out-of-order and with overlapping coordinates.
 If that was the case, then word segmentation ambiguity would already be representable as is, without the need for a lattice extension. The issue is ongoing but spacing may need special handling for lattice support.
 
