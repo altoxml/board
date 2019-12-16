@@ -54,4 +54,4 @@ _wrt agenda item 5_. Upcoming Board Expirations:
 
 Raju and Stefan have kindly agreed to continue to serve on the ALTO Board. Ashok anticipates that he will exchange his position on the Board at some point in the next year with someone else from Google. There will be an effort to identify a new Chair before the end of 2020 to allow some overlap and give some time for the transition. Art reiterated what a postive experience it has been for him and thanked Frederick for his mentorship.
 
-The next full Board meeting is tentatively scheduled for Friday, February 14, 2000. The single-topic meeting will hopefully be some time in January if scheduling works out. 
+The next full Board meeting is tentatively scheduled for Friday, February 14, 2020. The single-topic meeting will hopefully be some time in January if scheduling works out. 
