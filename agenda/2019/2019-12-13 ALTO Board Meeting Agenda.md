@@ -5,7 +5,7 @@
       * [Change BASELINE to accommodate a list of points in addition to a single point](https://github.com/altoxml/schema/issues/32)
    * issue updates: 
       * [ALTO &amp; IIIF integration](https://github.com/altoxml/schema/issues/45)
-      * [ALTO support for encoding OCR segmentation ambiguity](https://github.com/altoxml/schema/issues/63) - see [2019-11-03 ALTO F2F Board Meeting Minutes](https://github.com/altoxml/board/blob/gh-pages/minutes/2019-11-03%20ALTO%20Board%20Meeting%20Minutes.md)
+      * [ALTO support for encoding OCR segmentation ambiguity](https://github.com/altoxml/schema/issues/63) - see [2019-11-03 ALTO F2F Board Meeting Minutes](https://github.com/altoxml/board/blob/gh-pages/minutes/2019/2019-11-03%20ALTO%20Board%20Meeting%20Minutes.md)
       * [Should FONTSIZE be required?](https://github.com/altoxml/schema/issues/64)
       * [Restrict float attribute values where possible to allow for better xml-validation](https://github.com/altoxml/schema/issues/62)
       * [Confidence value calculation (CC - WC - PC) - annotation extension](https://github.com/altoxml/schema/issues/23) - see Ashok's [summary document](https://docs.google.com/document/d/1JkbqfEb8pkwTdMSyjXJRfdpshlWoVbFn47uYfqB4O_Q)
