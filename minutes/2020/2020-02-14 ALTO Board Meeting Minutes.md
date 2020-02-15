@@ -42,9 +42,9 @@ _wrt agenda item 3_. Review recent schema issues:
 
 _wrt agenda item 4_. ALTO - PAGE xml: Object mapping and possible transformation generation:
 
-Christian described his [recent work on an ALTO to PAGE transformation](https://github.com/PRImA-Research-Lab/prima-core-libs/tree/master/java/PrimaDla/src/org/primaresearch/dla/page/io/xml) in the [core java libraries](https://github.com/PRImA-Research-Lab/prima-core-libs) used by the PRImA Research Lab. Clemens pointed out that there has been funding to support a contractor to build on this base, and has added [repository links to the github issue](https://github.com/altoxml/schema/issues/48#issuecomment-586309637). The contract has been for January and February, and the results will eventually be brought back for merging into the Prima core libraries. 
+Christian described his [recent work on an ALTO to PAGE transformation](https://github.com/PRImA-Research-Lab/prima-core-libs/tree/master/java/PrimaDla/src/org/primaresearch/dla/page/io/xml) in the [core java libraries](https://github.com/PRImA-Research-Lab/prima-core-libs) used by the PRImA Research Lab. Clemens noted out that there has been funding to support a contractor to build on this base, and has added [repository links to the github issue](https://github.com/altoxml/schema/issues/48#issuecomment-586309637). The contract has been for January and February, and the results will eventually be brought back for merging into the Prima core libraries. 
 
-It was noted that PAGE and ALTO serve different purposes. PAGE captures what is literally on the physical page and ALTO encodes the analyzed text. The conversion from one to another will invariably be lossy, but could still be an invaluable starting point for moving between the two formats. 
+It was emphasised that PAGE and ALTO serve different purposes. PAGE captures what is literally on the physical page and ALTO encodes the analyzed text. The conversion from one to another will invariably be lossy, but could still be an invaluable starting point for moving between the two formats. 
   
 _wrt agenda item 5_. Spring Face-to-Face Meeting(s):
 
