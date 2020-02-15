@@ -44,11 +44,11 @@ _wrt agenda item 4_. ALTO - PAGE xml: Object mapping and possible transformation
 
 Christian described his [recent work on an ALTO to PAGE transformation](https://github.com/PRImA-Research-Lab/prima-core-libs/tree/master/java/PrimaDla/src/org/primaresearch/dla/page/io/xml) in the [core java libraries](https://github.com/PRImA-Research-Lab/prima-core-libs) used by the PRImA Research Lab. Clemens noted that there has been funding to support a contractor to build on this base, and has added [repository links to the github issue](https://github.com/altoxml/schema/issues/48#issuecomment-586309637). The contract has been for January and February, and the results will eventually be brought back for merging into the Prima core libraries. 
 
-It was noted that PAGE and ALTO serve different purposes. PAGE captures what is literally on the physical page and ALTO encodes the analyzed text. The conversion from one to another will invariably be lossy, but could still be a useful starting point for moving between formats. 
+It was noted that PAGE and ALTO serve different purposes. PAGE captures what is literally on the physical page and ALTO encodes the analyzed text. The conversion from one to another will invariably be lossy, but could still be an invaluable starting point for moving between the two formats. 
   
 _wrt agenda item 5_. Spring Face-to-Face Meeting(s):
 
-With global health concerns, it is difficult to finalize the arrangements for a Spring event. The tentative plan is to set up a meeting on the afternoon of April 22 as part of the [Impresso](https://impresso-project.ch/news/2019/06/12/WS5-CfP.html) conference but this is subject to current events.
+With global health concerns, it is difficult to finalize the arrangements for a Spring date. The tentative plan is to set up a meeting on the afternoon of April 22 as part of the [Impresso](https://impresso-project.ch/news/2019/06/12/WS5-CfP.html) conference but this is subject to current events.
 
 _wrt agenda item 6_. Other business:
 
