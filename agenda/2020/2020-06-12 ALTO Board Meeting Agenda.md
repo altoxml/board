@@ -10,8 +10,9 @@
 #57](https://github.com/altoxml/schema/issues/57)
    * full list of open schema issues [here](https://github.com/altoxml/schema/issues)
 4. OCR quality and transparency in ALTO [**All**] - revisiting [Confidence value calculation #23](https://github.com/altoxml/schema/issues/23) and building on [OCR Confidence in ALTO: Representation, Meaning, Desiderata](https://docs.google.com/document/d/1JkbqfEb8pkwTdMSyjXJRfdpshlWoVbFn47uYfqB4O_Q/edit).
-5. Summer <del>Face-to-Face</del> Virtual Single Topic Meeting(s):
+5. ALTO + IIIF [**Frederick**] - see [ALTO & IIIF integration #45](https://github.com/altoxml/schema/issues/45).
+6. Summer <del>Face-to-Face</del> Virtual Single Topic Meeting(s):
    * Using an interoperable lattice structure for encoding OCR uncertainty and alternative hypotheses - see [ALTO support for encoding OCR segmentation ambiguity #63](https://github.com/altoxml/schema/issues/63).
    * ALTO for Handwriting - current real-world examples include [Transkribus](https://transkribus.eu/Transkribus/) and [eScripta](https://escripta.hypotheses.org/).
    * Other candidates...
-6. Other business. [**All**]
+7. Other business. [**All**]
