@@ -1,4 +1,4 @@
-# 2019-07-16 ALTO Board Meeting Minutes
+# 2020-07-16 ALTO Board Meeting Minutes
 **Agenda**
 1. Welcome. [**All**]
 2. Discussion of handwriting support in ALTO. [**All**]
