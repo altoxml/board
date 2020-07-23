@@ -33,7 +33,7 @@ The Board welcomed Ben to the meeting. After some introductions, Ben
 provided a snapshot of his experiences with ALTO from his work with
 [kraken](https://github.com/mittagessen/kraken) and handwriting
 recognition. He flagged the importance of encoding reading order, a
-function that needs a level of granularity and is not supported by any
+function that needs a high level of granularity and is not supported by any
 current serialization format. Art brought up ALTO's existing [reading
 order ticket](https://github.com/altoxml/schema/issues/18), which has
 become dated but has also been flagged relatively recently as a high
