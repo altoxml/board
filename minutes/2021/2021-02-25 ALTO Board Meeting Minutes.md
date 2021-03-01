@@ -65,7 +65,8 @@ _wrt agenda item 3_. Review recent schema issues:
 
 _wrt agenda item 4_. Confidence Calculations Redux:
 
-Frederick described how some of the schema may reflect long-standing use of ABBYY. Clemens flagged the increased use of OCR-correcting systems,
+Frederick described how some of the schema encodings for confidence may reflect the historical use of ABBYY. Clemens flagged the increased 
+popularity of OCR-correcting systems,
 which tend to work at the character level and can make good use of accuracy metrics. Cip questioned whether the suggestion put forward in the gitub issue
 regarding dropping _CC_ and encoding character level accuracy with the _glyph_ element was always viable, given the resulting expansion in the size of the ALTO
 file. Cally noted how the _CC_ element provides a short-hand way of viewing the confidence for each character but wondered how critical this is since
