@@ -61,7 +61,7 @@
 _wrt agenda item 3_. Review recent schema issues:
 
    * [Length of main glyph and variants #44](https://github.com/altoxml/schema/issues/44) - Clemens gave some background information on the issue, it has resurfaced in the OCR-D project where composed characters and graphene clusters are hitting the limit currently in the schema. It is unclear whether allowing unlimited values is also problematic and additional  feedback is requested.
-   * [Use of LC xlink instead of w3c xlink fails in mixed validation. Mixup/clashes in schema definitions. #67](https://github.com/altoxml/schema/issues/67) - Frederick noted he has observed that ALTO schemas sometimes will not validate, and it could be because of xlink and network connectivity. Jukka is using local references, and confirmed that the issue has been raised in the METS Board. 
+   * [Use of LC xlink instead of w3c xlink fails in mixed validation. Mixup/clashes in schema definitions. #67](https://github.com/altoxml/schema/issues/67) - Frederick noted that he has observed that ALTO schemas sometimes will not validate, and it could be because of xlink and network connectivity. Jukka is using local references, and confirmed that the same xlink issue has been raised in the METS Board.
 
 _wrt agenda item 4_. Confidence Calculations Redux:
 
@@ -91,5 +91,4 @@ Art will reach out to Nationale Bibliotheek van Nederland for a possible replace
 
 _wrt agenda item 6_. Other business:
 
-Clemens made a plug for the upcoming [ICDAR](https://icdar2021.org/) conference, which will be held in Lausanne, and which will have both an in-person and virtual
-component. The next Board meeting will likely be held in April.
+Clemens made a plug for the upcoming [ICDAR](https://icdar2021.org/) conference, to be held in Lausanne, Switzerland, on September 5-10, and which will have both an in-person and virtual component. The next Board meeting will likely be held in April.
