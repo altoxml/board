@@ -9,7 +9,7 @@
       <xsd:documentation>Deprecated. Where possible, the Gylph element should be used instead with the associated and more precise GC and VC attributes.</xsd:documentation>
       ```
    * new:
-      * [Use of LC xlink instead of w3c xlink fails in mixed validation. Mixup/clashes in schema definitions. #67](https://github.com/altoxml/schema/issues/67) - current use in [4.2 schema](https://github.com/altoxml/schema/blob/831adab03d0b20d3d6a220f082ce496a18caef12/v4/alto-4-2.xsd#L525) and possible modification based on [Premis-v3-0](https://github.com/LibraryOfCongress/premis-v3-0/blob/master/xsd#L41) and [METS](https://github.com/mets/METS-schema/blob/noxlink/mets.xsd#L1853)
+      * [Use of LC xlink instead of w3c xlink fails in mixed validation. Mixup/clashes in schema definitions. #67](https://github.com/altoxml/schema/issues/67) - current use in [4.2 schema](https://github.com/altoxml/schema/blob/831adab03d0b20d3d6a220f082ce496a18caef12/v4/alto-4-2.xsd#L443) and possible modification based on [Premis-v3-0](https://github.com/LibraryOfCongress/premis-v3-0/blob/master/xsd#L41) and [METS](https://github.com/mets/METS-schema/blob/noxlink/mets.xsd#L1853)
       * [Support for script in addition to language #70](https://github.com/altoxml/schema/issues/70)
    * high priority:
       * [ALTO - PAGE xml: Object mapping and possible transformation generation #48](https://github.com/altoxml/schema/issues/48) - has this [been addressed](https://github.com/PRImA-Research-Lab/prima-page-converter)?
