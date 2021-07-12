@@ -11,6 +11,6 @@
    * background materials: 
       * [Confidence value calculation #23](https://github.com/altoxml/schema/issues/23).
       * [OCR confidence in ALTO: representation, meaning, desiderata](https://docs.google.com/document/d/1JkbqfEb8pkwTdMSyjXJRfdpshlWoVbFn47uYfqB4O_Q/edit).
-      * _A survey of OCR evaluation tools and metrics_ - [ICDAR 2021](https://icdar2021.org/) paper (sent by email)
+      * _A survey of OCR evaluation tools and metrics_ - [HIP'21](https://blog.sbb.berlin/hip2021/) paper (sent by email)
 5. Upcoming Board Changes - transition of Chair position.
 6. Other business. [**All**]
