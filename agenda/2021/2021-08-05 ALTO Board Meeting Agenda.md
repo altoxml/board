@@ -6,7 +6,8 @@
    * new:
       * [Support for encoding script direction
 #73](https://github.com/altoxml/schema/issues/73).
-   * full list of open schema issues [here](https://github.com/altoxml/schema/issues).
+   * pull request:
+      * [Direction, orientation, and reading order (text direction elements) #74](https://github.com/altoxml/schema/pull/74).
 4. Confidence value discussion redux: 
    * background materials: 
       * [Confidence value calculation #23](https://github.com/altoxml/schema/issues/23).
