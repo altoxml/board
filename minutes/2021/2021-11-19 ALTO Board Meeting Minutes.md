@@ -42,6 +42,6 @@ Robert asked about the availability of ground truth for the different versions o
 
 Cip agreed to consider moving the timeline up for the next meeting, given the urgency of the requested changes to the schema for ongoing work. One possibility is early in the new year and Ben will prepare some more examples. 
 
-_wrt agenda item 5_. Upcoming Board Expirations:
+_wrt agenda item 4_. Upcoming Board Expirations:
 
 A reminder to let Cip know if members wish to continue on the Board if their term expires at the end of the year.
