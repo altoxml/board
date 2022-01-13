@@ -4,4 +4,5 @@
 3. Continue discussion of _Schema Pull Request_ - [Direction, orientation, and reading order (text direction elements) #74](https://github.com/altoxml/schema/pull/74) and prepare for voting. [**All**]
 4. Upcoming Board Expirations:
    * _December 31, 2021_: Frederick, Nate, Matthew, and Ahmed Samir - update status
+   * Update the members list and expiration
 5. Other business. [**All**]
