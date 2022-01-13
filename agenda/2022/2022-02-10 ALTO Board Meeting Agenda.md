@@ -5,4 +5,7 @@
 4. Upcoming Board Expirations:
    * _December 31, 2021_: Frederick, Nate, Matthew, and Ahmed Samir - update status
    * Update the members list and expiration
-5. Other business. [**All**]
+5. Next face-to-face meeting proposals:
+   * DAS 2022, La Rochelle, France (https://das2022.univ-lr.fr/) (22-25.05.2022)
+   * ICFHR 2022, Hyderabad, India (http://icfhr2022.org/) (December 2022)
+6. Other business. [**All**]
