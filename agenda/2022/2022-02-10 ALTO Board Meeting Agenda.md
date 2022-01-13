@@ -1,7 +1,5 @@
-2021-11-19 ALTO Board Meeting Agenda
-Welcome - with special guests Benjamin Kiessling and Robert Sachunsky [All]
-Find and tell a non-offensive, maybe self-deprecating joke before the meeting begins and/or after it ends. [All]
-Open discussion of Schema Pull Request - Direction, orientation, and reading order (text direction elements) #74. [All]
-Upcoming Board Expirations:
-December 31, 2021: Frederick, Nate, Matthew, and Ahmed Samir
-Other business. [All]
+# 2022-02-10 ALTO Board Meeting Agenda
+1. Welcome - with special guests [Benjamin Kiessling](https://github.com/mittagessen) and [Robert Sachunsky](https://github.com/bertsky) [**All**]
+2. Find and tell a non-offensive, maybe self-deprecating joke before the meeting begins and/or after it ends. [**All**]
+3. Continue discussion of _Schema Pull Request_ - [Direction, orientation, and reading order (text direction elements) #74](https://github.com/altoxml/schema/pull/74) and prepare for voting. [**All**]
+6. Other business. [**All**]
