@@ -1,4 +1,4 @@
-# 2022-10-06 ALTO Board Meeting Agenda
+# 2022-10-06 ALTO Board Meeting Minutes
 1. Welcome [**All**]
 2. Find and tell a non-offensive, maybe self-deprecating joke before the meeting begins and/or after it ends. [**All**]
 3. Follow up last meeting topics:
