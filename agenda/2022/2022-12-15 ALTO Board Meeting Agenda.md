@@ -18,7 +18,7 @@
   * ALTO schema 4.4 release proposal (time frame)
   * Handwritten documents and ALTO encoding - how to make ALTO more suitable for such documents - ideas (https://github.com/altoxml/schema/issues/81) - topics proposals
  
-5. Face-to-face meeting new proposal: ICDAR 2023, San José, US 21-16 August 2023 [**All**]
+5. Face-to-face meeting new proposal: ICDAR 2023, San José, US 21-26 August 2023 [**All**]
 
   * Intention is to make it a hybrid meeting so that everybody can attend
 
