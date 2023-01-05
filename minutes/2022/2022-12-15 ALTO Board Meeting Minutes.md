@@ -37,7 +37,7 @@
     * Add LANG and ROTATION attributes to Page element (altoxml/schema#55)
     * Storing detected languages (altoxml/schema#66)
     * Expand schema documentation for PointsType (altoxml/schema#49) - more votes are needed for a final decision (how restrictive should be the schema: there are three options - high level restriction, medium level restriction - favorite option till now, low level restriction)
- * Topics to be closed (no changes into schema, but decided to close the topics):
+ * Topics to be closed (no changes into schema, but decided to close them):
     * Support for script in addition to language (altoxml/schema#70)
  * Topics to be included into 5.0 version (that will break back compatibility):
     * Restrict float attribute values where possible to allow for better xml-validation (altoxml/schema#62) - still open - propose for 5.0 due to back compatibility issues)
