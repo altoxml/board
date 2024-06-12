@@ -5,7 +5,7 @@
       * Use of LC xlink instead of w3c xlink fails in mixed validation. Mixup/clashes in schema definitions (https://github.com/altoxml/schema/issues/67) - remove xlink, announced on schema 4.4
       * Restrict PointsType to a well defined format (https://github.com/altoxml/schema/issues/80) - implement restrictions defined in  (https://github.com/altoxml/schema/issues/49)
       * Deprecate and then remove ZORDER/IDNEXT since from 4.3 we have a different mechanism for order (https://github.com/altoxml/schema/issues/82) 
-      * CC attribute to be deprecated (https://github.com/altoxml/schema/issues/72)
+      * CC attribute to be deprecated or kept? Final proposal is to keep it (https://github.com/altoxml/schema/issues/72)
     * Most important change - decide the direction (force xsd 1.1 validation for 5.0, or impleent partially issue 62)
       * Restrict float attribute values where possible to allow for better xml-validation (https://github.com/altoxml/schema/issues/62)  
 4. Major feature proposal for 5.0:
