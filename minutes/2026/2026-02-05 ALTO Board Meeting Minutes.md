@@ -1,4 +1,4 @@
-# 2026-02-05 ALTO Board Meeting Agenda
+# 2026-02-05 ALTO Board Meeting Minutes
 1. Welcome [**All**]
 2. Topics to discuss:
 	* In progress topics:
