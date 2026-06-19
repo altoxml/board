@@ -1,4 +1,4 @@
-# 2026-04-22 ALTO Board Meeting Agenda
+# 2026-07-08 ALTO Board Meeting Agenda
 1. Welcome [**All**]
 2. Organisatoric topics:
   * Look for next Chair of ALTO Board (starting from January 2027)
