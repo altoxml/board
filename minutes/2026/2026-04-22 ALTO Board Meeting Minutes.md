@@ -208,7 +208,7 @@ Ciprian announced his intention to step down as chair while remaining an active 
 
 #### Timeline and Process:
 
-- Ciprian will continue as chair through end of 2025
+- Ciprian will continue as chair through end of 2026
 - Will send email to all board members soliciting interest
 - Topic will be prioritized at the top of next meeting agenda
 - Board members encouraged to suggest candidates or express interest
